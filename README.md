@@ -8,8 +8,9 @@
 Internship Project for Market Intelligence
 
 ## Project Summary
-![001](/IMAGES/001.jpg?raw=true "001")
-
+![001](/IMAGES/001.png?raw=true "001")<br>
+![003](/IMAGES/003.png?raw=true "003")<br>
+![002](/IMAGES/002.png?raw=true "002")
 
 ## Technologies
     python
@@ -23,7 +24,6 @@ Internship Project for Market Intelligence
 <br>
 
 ## The NexUs Team
-![The NexUs](/Images/NexUs_Logo.gif?raw=true "The NexUs")
 - [Carpio, Mariel Ann](https://github.com/CarpioMrl/)
 - [Go, Neil Christian](https://github.com/Nichigo-GitHub/)
 - [Legaspi, Marc Ace](https://github.com/mecsung/)
