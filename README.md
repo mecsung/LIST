@@ -8,7 +8,7 @@
 Internship Project for Market Intelligence
 
 ## Project Summary
-![prototype](/Images/prototype.jpg?raw=true "prototype")
+![splashscreen](/Images/001.jpg?raw=true "splashscreen")
 
 
 ## Technologies
