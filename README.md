@@ -1,4 +1,4 @@
-# Linkedin Scrapin Tool
+# Linkedin Scraping Tool
 * [General info](#general-info)
 * [Project Summary](#project-summary)
 * [Technologies](#technologies)
